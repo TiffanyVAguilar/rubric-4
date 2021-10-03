@@ -1,0 +1,17 @@
+#click-me,
+#hover-me {
+  margin: 20px;
+  display: none;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
+
+#container {
+  margin: 20px;
+}
